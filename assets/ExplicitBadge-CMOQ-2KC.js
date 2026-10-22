@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-lTuChwRC.js";var t={badge:`_badge_1ls7u_1`},n=e();function r(){return(0,n.jsx)(`span`,{className:t.badge,role:`img`,"aria-label":`Explicit`,children:`E`})}export{r as t};

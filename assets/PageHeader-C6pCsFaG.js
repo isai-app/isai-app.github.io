@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-lTuChwRC.js";var t={header:`_header_13h1o_1`,title:`_title_13h1o_6`},n=e();function r({title:e}){return(0,n.jsx)(`div`,{className:t.header,children:(0,n.jsx)(`h1`,{className:t.title,children:e})})}export{r as t};
