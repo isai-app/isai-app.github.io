@@ -1,0 +1,1 @@
+import{i as e}from"./dist-sBTuRPnX.js";var t,n=e((()=>{t=globalThis||self}));export{n,t};

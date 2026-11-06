@@ -1,0 +1,8 @@
+{
+  "version": "0.7.0",
+  "builtAt": "2026-11-06T07:21:27.835Z",
+  "files": {
+    "chrome": "isai-extension-chrome.zip",
+    "firefox": "isai-extension-firefox.zip"
+  }
+}
